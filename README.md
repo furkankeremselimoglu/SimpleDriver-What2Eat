@@ -24,6 +24,7 @@ avoid this confusion, program decides to turn this situation into a democratic *
 ## Usage
 Just run it.
 ```bash
+makefile
 ./What2Eat
 ```
 
