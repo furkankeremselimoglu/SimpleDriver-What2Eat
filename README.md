@@ -19,7 +19,7 @@ sudo rmmod hello_driver
 ```
 # What2Eat
 Some days, people living together try to decide what food to order home or dorm room. To
-avoid this confusion, program decides to turn this situation into a democratic What2Eat.c game.
+avoid this confusion, program decides to turn this situation into a democratic **What2Eat.c** game.
 
 ## Usage
 Just run it.
