@@ -22,14 +22,14 @@ Some days, people living together try to decide what food to order home or dorm 
 avoid this confusion, program decides to turn this situation into a democratic **What2Eat.c** game.
 
 ## Usage
-Just run it.
+Just run like that:
 ```bash
 makefile
+```
+then,
+```bash
 ./What2Eat
 ```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Acknowledgment
 * This project is part of the course CS350 (Operating Systems) at Ozyegin University by Ismail Ari.
